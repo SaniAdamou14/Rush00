@@ -1,0 +1,50 @@
+Quelle commande affiche le contenu d’un fichier ?|cat|ls|cd|rm|1
+Quelle commande supprime un fichier ?|rm|mv|cp|ls|1
+Quelle commande change de répertoire ?|cd|ls|rm|cat|1
+Quelle commande liste les fichiers d’un répertoire ?|ls|cd|mv|cp|1
+Quelle commande copie un fichier ?|cp|mv|rm|cat|1
+Quelle commande déplace ou renomme un fichier ?|mv|cp|rm|ls|1
+Quelle commande affiche le chemin du répertoire actuel ?|pwd|cd|ls|whoami|1
+Quelle commande affiche les processus en cours ?|ps|ls|top|cat|1
+Quelle commande arrête un processus par son PID ?|kill|ps|top|rm|1
+Quelle commande crée un nouveau répertoire ?|mkdir|rmdir|cd|ls|1
+Quelle commande supprime un répertoire vide ?|rmdir|mkdir|rm -r|ls|1
+Quelle commande supprime un répertoire et son contenu ?|rm -r|rmdir|mkdir|ls|1
+Quelle commande affiche les premières lignes d’un fichier ?|head|tail|cat|ls|1
+Quelle commande affiche les dernières lignes d’un fichier ?|tail|head|cat|ls|1
+Quelle commande compte les lignes d’un fichier ?|wc -l|wc -w|wc -c|cat|1
+Quelle commande recherche un motif dans un fichier ?|grep|sed|awk|cat|1
+Quelle commande affiche le contenu d’un fichier avec numérotation des lignes ?|cat -n|cat|nl|ls|1
+Quelle commande crée un fichier vide ?|touch|cat|ls|rm|1
+Quelle commande affiche l’espace disque utilisé ?|df|du|ls|free|1
+Quelle commande affiche l’utilisation de la mémoire ?|free|df|du|top|1
+Quelle commande affiche les utilisateurs connectés ?|who|whoami|users|ls|1
+Quelle commande affiche votre nom d’utilisateur ?|whoami|who|users|id|1
+Quelle commande change les permissions d’un fichier ?|chmod|chown|ls|rm|1
+Quelle commande change le propriétaire d’un fichier ?|chown|chmod|ls|rm|1
+Quelle commande affiche l’historique des commandes ?|history|hist|cmd|ls|1
+Quelle commande exécute un script Bash ?|bash|sh|run|cat|1
+Quelle commande affiche le type d’un fichier ?|file|type|ls|cat|1
+Quelle commande lie un fichier à un autre (hard link) ?|ln|ln -s|cp|mv|1
+Quelle commande crée un lien symbolique ?|ln -s|ln|cp|mv|1
+Quelle commande affiche les variables d’environnement ?|env|set|export|ls|1
+Quelle commande exporte une variable d’environnement ?|export|set|env|unset|1
+Quelle commande supprime une variable d’environnement ?|unset|set|export|env|1
+Quelle commande affiche le contenu d’un fichier page par page ?|less|more|cat|ls|2
+Quelle commande trouve des fichiers dans une arborescence ?|find|locate|ls|grep|1
+Quelle commande met à jour la base de données de locate ?|updatedb|find|ls|grep|1
+Quelle commande affiche la date et l’heure actuelles ?|date|time|clock|ls|1
+Quelle commande compresse un fichier en .tar.gz ?|tar -czf|tar -xzf|zip|gzip|1
+Quelle commande décompresse un fichier .tar.gz ?|tar -xzf|tar -czf|unzip|gunzip|1
+Quelle commande affiche les différences entre deux fichiers ?|diff|cmp|cat|ls|1
+Quelle commande redirige la sortie d’une commande vers un fichier ?|>|<|>>|cat|1
+Quelle commande ajoute la sortie d’une commande à la fin d’un fichier ?|>>|>|<|cat|1
+Quelle commande permet de chaîner des commandes ?|;|&&|||ls|1
+Quelle commande exécute une commande seulement si la précédente a réussi ?|&&|;|||ls|1
+Quelle commande lit l’entrée standard et l’envoie à une autre commande ?|tee|pipe|cat|ls|1
+Quelle commande affiche les 5 premières lignes d’un fichier ?|head -n 5|tail -n 5|cat|ls|1
+Quelle commande remplace un mot dans un fichier ?|sed|awk|grep|cat|1
+Quelle commande affiche les fichiers cachés dans un répertoire ?|ls -a|ls -l|ls|dir|1
+Quelle commande affiche les détails des fichiers (permissions, taille, etc.) ?|ls -l|ls -a|ls|dir|1
+Quelle commande trie les lignes d’un fichier ?|sort|uniq|cat|ls|1
+Quelle commande supprime les lignes dupliquées dans un fichier ?|uniq|sort|cat|ls|1
