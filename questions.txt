@@ -48,3 +48,4 @@ Quelle commande affiche les fichiers cachés dans un répertoire ?|ls -a|ls -l|l
 Quelle commande affiche les détails des fichiers (permissions, taille, etc.) ?|ls -l|ls -a|ls|dir|1
 Quelle commande trie les lignes d’un fichier ?|sort|uniq|cat|ls|1
 Quelle commande supprime les lignes dupliquées dans un fichier ?|uniq|sort|cat|ls|1
+Comment changer de dossier ?|cd|rm|cat|mv|1

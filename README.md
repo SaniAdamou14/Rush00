@@ -2,7 +2,7 @@
 
 ## Description
 
-Terminal Hero est un quizz interactif en Bash qui teste vos connaissances sur les commandes Unix. Jouez, ajoutez ou supprimez des questions, consultez vos scores, et apprenez en vous amusant !
+Terminal Hero est un quizz interactif en Bash creer par le Rush 22 composer de ```Ahmadou, Adamou Mahamane, Rabiou Mahamane, Sani Dan Salaou, Mamoudou Souley``` qui teste vos connaissances sur les commandes Unix. Jouez, ajoutez ou supprimez des questions, consultez vos scores, et apprenez en vous amusant !
 
 ## Objectifs pédagogiques
 
@@ -13,7 +13,8 @@ Terminal Hero est un quizz interactif en Bash qui teste vos connaissances sur le
 
 ## Prérequis
 
-- Système Unix-like (Linux, macOS, WSL)
+- Système Unix-like (Linux, macOS, WSL(Sous-système Windows))
+- Un éditeur de texte (VSCode, Sublime, Atom, etc.)
 - Bash installé
 - Fichier `questions.txt` dans le même répertoire que le script
 
@@ -22,5 +23,8 @@ Terminal Hero est un quizz interactif en Bash qui teste vos connaissances sur le
 1. Clonez le dépôt :
 
    ```bash
-   git clone <URL-du-dépôt>
+   git clone https://github.com/SaniAdamou14/Rush00.git
    cd terminal_hero
+   chmod +x terminal_hero.sh
+   ./terminal_hero.sh
+   ```

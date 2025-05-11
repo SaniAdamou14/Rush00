@@ -112,7 +112,7 @@ add_question() {
     if ! validate_numeric_input "$correct_answer" 4; then
         return
     fi
-    # Ajouter la question au fichier
+    # Ajouter la question a la fin du fichier
     echo "$question|$c1|$c2|$c3|$c4|$correct_answer" >> "$QUESTIONS_FILE"
     print_colored 2 "Question ajoutée avec succès !"
 }
